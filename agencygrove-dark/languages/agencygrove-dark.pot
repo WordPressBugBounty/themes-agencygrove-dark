@@ -1,0 +1,379 @@
+# Copyright (C) 2025 agencygrove-dark
+# This file is distributed under the same license as the agencygrove-dark package.
+msgid ""
+msgstr ""
+"Project-Id-Version: agencygrove-dark\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-09-26 05:33+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../functions.php:31
+msgid "AgencyGrove Dark"
+msgstr ""
+
+#: ../patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr ""
+
+#: ../patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done a disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr ""
+
+#: ../patterns/404.php:25
+msgid "Go to home page"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../patterns/archive.php:53, ../patterns/blog-left.php:60, ../patterns/blog-right.php:56, ../patterns/search.php:54
+msgid "No posts found"
+msgstr ""
+
+#: ../patterns/banner.php:16
+msgid "Smart"
+msgstr ""
+
+#: ../patterns/banner.php:16
+msgid "Solutions"
+msgstr ""
+
+#: ../patterns/banner.php:16
+msgid "for a Brighter Future."
+msgstr ""
+
+#: ../patterns/banner.php:20
+msgid "Massa maecenas litora sit tortor facilisi eget dictum tristique curabitur aliquam facilisis mus tellus platea dapibus commodo magna aliquet integer praesent volutpat letius ac elementum lectus"
+msgstr ""
+
+#: ../patterns/banner.php:25
+msgid "Explore More"
+msgstr ""
+
+#: ../patterns/banner.php:29, ../patterns/cta.php:22, ../patterns/header.php:18
+msgid "Get Started"
+msgstr ""
+
+#: ../patterns/blog-left.php:10, ../patterns/blog-right.php:10, ../patterns/footer.php:67
+msgid "Blogs"
+msgstr ""
+
+#: ../patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: ../patterns/cart.php:76
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: ../patterns/cart.php:84
+msgid "New in store"
+msgstr ""
+
+#: ../patterns/cta.php:11
+msgid "Embark On Your Journey Join"
+msgstr ""
+
+#: ../patterns/cta.php:11, ../patterns/why-choose-us.php:15
+msgid "AgencyGrove"
+msgstr ""
+
+#: ../patterns/cta.php:11
+msgid "Today"
+msgstr ""
+
+#: ../patterns/cta.php:16
+msgid "Leo cubilia vehicula ex donec maecenas fusce quam arcu himenaeos habitant nec iaculis mi habitasse dui elementum ut"
+msgstr ""
+
+#: ../patterns/footer.php:15
+msgid "Agencygrove Dark"
+msgstr ""
+
+#: ../patterns/footer.php:19
+msgid "Facilisi primis enim et accumsan tincidunt ultrices habitant. Purus imperdiet quisque maecenas laoreet himenaeos congue."
+msgstr ""
+
+#: ../patterns/footer.php:33
+msgid "Quick Link"
+msgstr ""
+
+#: ../patterns/footer.php:37
+msgid "Find Job"
+msgstr ""
+
+#: ../patterns/footer.php:41
+msgid "Career Advice"
+msgstr ""
+
+#: ../patterns/footer.php:45
+msgid "Setting"
+msgstr ""
+
+#: ../patterns/footer.php:45
+msgid "Privacy"
+msgstr ""
+
+#: ../patterns/footer.php:49
+msgid "Contact Us"
+msgstr ""
+
+#: ../patterns/footer.php:55
+msgid "Company"
+msgstr ""
+
+#: ../patterns/footer.php:59
+msgid "About US"
+msgstr ""
+
+#: ../patterns/footer.php:63
+msgid "Terms and Conditions"
+msgstr ""
+
+#: ../patterns/footer.php:71
+msgid "FAQ"
+msgstr ""
+
+#: ../patterns/footer.php:77
+msgid "Contact Info"
+msgstr ""
+
+#: ../patterns/footer.php:81
+msgid "455 West Orchard Street, Kings Mountain"
+msgstr ""
+
+#: ../patterns/footer.php:85
+msgid "+088 (256) 645-52-288"
+msgstr ""
+
+#: ../patterns/footer.php:89
+msgid "example@example.com"
+msgstr ""
+
+#: ../patterns/footer.php:98
+msgid "Developed By"
+msgstr ""
+
+#: ../patterns/footer.php:98
+msgid "Themegrove.com"
+msgstr ""
+
+#: ../patterns/footer.php:102
+msgid "©Copyright All Right Reserved"
+msgstr ""
+
+#: ../patterns/news.php:11
+msgid "Articles"
+msgstr ""
+
+#: ../patterns/news.php:15
+msgid "Let's Checkout Our All"
+msgstr ""
+
+#: ../patterns/news.php:15
+msgid "Latest News"
+msgstr ""
+
+#: ../patterns/services.php:11
+msgid "Premium Services"
+msgstr ""
+
+#: ../patterns/services.php:15
+msgid "That Is The Best Service"
+msgstr ""
+
+#: ../patterns/services.php:15
+msgid "Determine The"
+msgstr ""
+
+#: ../patterns/services.php:15
+msgid "Service"
+msgstr ""
+
+#: ../patterns/services.php:15
+msgid "You Need"
+msgstr ""
+
+#: ../patterns/services.php:29
+msgid "Web Development"
+msgstr ""
+
+#: ../patterns/services.php:33, ../patterns/services.php:51, ../patterns/services.php:69, ../patterns/services.php:89, ../patterns/services.php:107, ../patterns/services.php:125
+msgid "Nullam dictum felis eu pede mollis pretium. Vestibulum suscipit nulla quis orci. Donec interdum, metus et hendrerit aliquet, dolor diam sagittis ligula, eget egestas libero turpis vel mi. Cras varius."
+msgstr ""
+
+#: ../patterns/services.php:47
+msgid "UI/UX Design"
+msgstr ""
+
+#: ../patterns/services.php:65
+msgid "App Development"
+msgstr ""
+
+#: ../patterns/services.php:85
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: ../patterns/services.php:103
+msgid "Graphic Design"
+msgstr ""
+
+#: ../patterns/services.php:121
+msgid "Social Media management"
+msgstr ""
+
+#: ../patterns/sidebar.php:15
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:23
+msgid "Categories"
+msgstr ""
+
+#: ../patterns/sidebar.php:31
+msgid "Tags"
+msgstr ""
+
+#: ../patterns/single-product.php:10
+msgid "Single Product"
+msgstr ""
+
+#: ../patterns/single-product.php:62
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/team.php:12
+msgid "Our Team"
+msgstr ""
+
+#: ../patterns/team.php:16
+msgid "Experience"
+msgstr ""
+
+#: ../patterns/team.php:16
+msgid "Our Professionals"
+msgstr ""
+
+#: ../patterns/team.php:16
+msgid "Team"
+msgstr ""
+
+#: ../patterns/team.php:30
+msgid "Md Rafi"
+msgstr ""
+
+#: ../patterns/team.php:34
+msgid "App Developer"
+msgstr ""
+
+#: ../patterns/team.php:34
+msgid "CEO"
+msgstr ""
+
+#: ../patterns/team.php:38, ../patterns/team.php:68, ../patterns/team.php:98, ../patterns/team.php:128
+msgid "Nullam dictum felis eu pede mollis pretium. Vestibulum suscipit nulla quis orci."
+msgstr ""
+
+#: ../patterns/team.php:60
+msgid "Mehedi Hassan"
+msgstr ""
+
+#: ../patterns/team.php:64
+msgid "Python Developer"
+msgstr ""
+
+#: ../patterns/team.php:64
+msgid "CTO"
+msgstr ""
+
+#: ../patterns/team.php:90
+msgid "Sanjam Patel"
+msgstr ""
+
+#: ../patterns/team.php:94
+msgid "SEO/SEM"
+msgstr ""
+
+#: ../patterns/team.php:94
+msgid "CFO"
+msgstr ""
+
+#: ../patterns/team.php:120
+msgid "Nayem Hossain"
+msgstr ""
+
+#: ../patterns/team.php:124
+msgid "Web Developer"
+msgstr ""
+
+#: ../patterns/team.php:124
+msgid "HR Manager"
+msgstr ""
+
+#: ../patterns/testimonials.php:11, ../patterns/testimonials.php:15
+msgid "Testimonials"
+msgstr ""
+
+#: ../patterns/testimonials.php:15
+msgid "From Satisfied Users"
+msgstr ""
+
+#: ../patterns/testimonials.php:19, ../patterns/why-choose-us.php:19
+msgid "Vehicula egestas tempor aptent etiam fames ut integer montes potenti inceptos ornare semper"
+msgstr ""
+
+#: ../patterns/testimonials.php:28, ../patterns/testimonials.php:52, ../patterns/testimonials.php:76
+msgid "Dictumst turpis potenti fringilla mi lorem dapibus suspendisse senectus ligula rhoncus neque eros dictum nunc himenaeos justo per phasellus platea"
+msgstr ""
+
+#: ../patterns/testimonials.php:38
+msgid "Alexandra R."
+msgstr ""
+
+#: ../patterns/testimonials.php:42, ../patterns/testimonials.php:66, ../patterns/testimonials.php:90
+msgid "Project Manager"
+msgstr ""
+
+#: ../patterns/testimonials.php:62
+msgid "Jane Doe"
+msgstr ""
+
+#: ../patterns/testimonials.php:86
+msgid "John Doe"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:11
+msgid "Why Choose Us"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:15
+msgid "Why Choose"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:41
+msgid "Seamless Integration"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:45, ../patterns/why-choose-us.php:59, ../patterns/why-choose-us.php:73, ../patterns/why-choose-us.php:87
+msgid "Suspendisse sollicitudin iaculis lectus fringilla litora maximus curae felis justo parturient semper etiam non hendrerit"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:55
+msgid "Global Reach"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:69
+msgid "Safe and Secure"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:83
+msgid "Fast and Reliable"
+msgstr ""

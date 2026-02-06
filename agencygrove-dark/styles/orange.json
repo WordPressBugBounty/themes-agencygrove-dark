@@ -1,0 +1,91 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "title": "Orange",
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "color": "#e66a17",
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "color": "#242F65",
+          "name": "Secondary",
+          "slug": "secondary"
+        },
+        {
+          "color": "#222222",
+          "name": "Base",
+          "slug": "base"
+        },
+        {
+          "color": "#040200",
+          "name": "Base / Two",
+          "slug": "base-2"
+        },
+        {
+          "color": "#ffffff",
+          "name": "Contrast",
+          "slug": "contrast"
+        },
+        {
+          "color": "#636363",
+          "name": "Contrast / Two",
+          "slug": "contrast-2"
+        },
+        {
+          "color": "#A4A4A4",
+          "name": "Contrast / Three",
+          "slug": "contrast-3"
+        },
+        {
+          "color": "#525665",
+          "name": "Accent",
+          "slug": "accent"
+        },
+        {
+          "color": "#2F2F2F",
+          "name": "Accent / Two",
+          "slug": "accent-2"
+        },
+        {
+          "color": "#2A2C32",
+          "name": "Accent / Three",
+          "slug": "accent-3"
+        },
+        {
+          "color": "#7390F9",
+          "name": "Accent / Four",
+          "slug": "accent-4"
+        },
+        {
+          "color": "#b5bdbc",
+          "name": "Accent / Five",
+          "slug": "accent-5"
+        },
+        {
+          "color": "#fcfcfc",
+          "name": "Link Color",
+          "slug": "link-color"
+        },
+        {
+          "color": "#F5F8FE",
+          "name": "Accent / Six",
+          "slug": "accent-6"
+        },
+        {
+          "color": "#F8F8F8",
+          "name": "Accent / Seven",
+          "slug": "accent-7"
+        },
+        {
+          "color": "#b54b04",
+          "name": "Button Hover Color",
+          "slug": "button-hover-color"
+        }
+      ]
+    }
+  }
+}
